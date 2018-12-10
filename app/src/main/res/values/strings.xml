@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SIS</string>
+    <string name="university_name">Yarmouk University</string>
+    <string name="logo">Logo</string>
+    <string name="id">ID</string>
+    <string name="your_id">Your ID</string>
+    <string name="password">Password</string>
+    <string name="your_password">Your Password</string>
+    <string name="login">Login</string>
+
+</resources>
